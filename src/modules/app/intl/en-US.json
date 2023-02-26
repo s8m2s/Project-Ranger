@@ -1,0 +1,23 @@
+{
+  "app.loading": "Loading...",
+  "app.success": "Success!",
+  "app.failure": "Whoops, something went wrong! If the problem persists, please contact us.",
+
+  "locale.title.en-US": "English (US)",
+
+  "action.close": "Close",
+  "action.apply": "Apply",
+  "action.next": "Next",
+  "action.save": "Save",
+  "action.back": "Back",
+  "action.send": "Send",
+  "action.search": "Search",
+  "action.cancel": "Cancel",
+
+  "validation.required": "This field is required.",
+  "validation.emailRequired": "Email is required.",
+  "validation.emailValid": "Please enter a valid email.",
+
+  "noMatchPage.title": "Page not found",
+  "noMatchPage.description": "We are sorry but the page you were looking for was not found."
+}

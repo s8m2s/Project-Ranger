@@ -1,0 +1,3 @@
+{
+  "buildCommand": "cd ../.. && pnpm build && cd ./apps/starter-lavanda && pnpm build"
+}
